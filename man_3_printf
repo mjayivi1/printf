@@ -1,4 +1,3 @@
-.TH _PRINTF 3 "29 Oct 2019" "Version 1.0" "_PRINTF"
 .SH NAME
 .B _printf
 - formatted output conversion
@@ -85,5 +84,4 @@ _printf("%        s", "Hello");
 _printf("%        k");
 .B // the output will be '% k'
 .RE
-.SH AUTHOR
-Jorge Salazar and Santiago Arboleda Londoño
+
