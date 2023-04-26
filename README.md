@@ -83,6 +83,3 @@ _printf("%        s", "Hello"); **// the output will be: Hello**
 
 _printf("%        k"); **// the output will be: % k**
 
-## Author
-
-**_printf()** is written and maintained by **Jorge Salazar** (jormao@gmail.com) and **Santiago Arboleda Londoño** (monoprosito@gmail.com).
